@@ -1,3 +1,6 @@
+Esse é um portfolio pessoal para fins de estudo em programação e está baseado no template abaixo.
+
+
 Thanks for downloading this template!
 
 Template Name: iPortfolio
